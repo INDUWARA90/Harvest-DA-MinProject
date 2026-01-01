@@ -29,4 +29,4 @@ In this project, I practiced **data cleaning, exploration, and visualization** u
 
 1. Clone this repository:  
 ```bash
-git clone (https://github.com/INDUWARA90/Harvest-DA-MinProject.git)
+git clone https://github.com/INDUWARA90/Harvest-DA-MinProject.git
